@@ -1,0 +1,6 @@
+# Preuzeti xPack toolchain i alati (busybox, make, helper skripte) - nije nas kod
+tooling/xpack/** linguist-vendored
+
+# Izlazi iz ModelSim/Quartus alata - generisano, nije nas kod
+tooling/work/**   linguist-generated
+tooling/config/** linguist-generated
